@@ -10,6 +10,8 @@ backend/.venv/
 .env.local
 frontend/.env.local
 
+private.txt
+
 # Build outputs
 frontend/.next/
 frontend/out/
